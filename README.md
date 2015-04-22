@@ -9,7 +9,7 @@ This is very serious stuff, [here's a demo](http://tholman.com/elevator.js)!
 
 #### JS
 
-`Elevator.js` lives intirely within the js realm, which makes things fairly simple to use.
+`Elevator.js` lives entirely within the js realm, which makes things fairly simple to use.
 
 You'll need to create a new instance of `Elevator`, and pass it some audio elements.
 ```html
@@ -63,6 +63,8 @@ window.onload = function() {
 
 ### License
 
-The MIT License (MIT)
+Elevator.js is covered by the MIT License.
 
-Copyright (C) 2014 ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
+Audio in the Demo (sourced from [BenSound](http://www.bensound.com/)) is Creative Commons.
+
+Copyright (C) 2015 ~ [Tim Holman](http://tholman.com) ~ timothy.w.holman@gmail.com
